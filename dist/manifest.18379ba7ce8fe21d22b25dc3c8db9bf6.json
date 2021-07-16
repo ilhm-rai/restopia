@@ -1,0 +1,53 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.60bd8b3241ad812bfb8f8b3cddde13d2.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/ios/icon_192x192.d11f77e7bf1c72a491ea9175b4bf62c2.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/android/icon_512x512.4eb5ec1dc685a97b4674747176564058.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_384x384.34e5c345105cd49061592a717f55dd43.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_256x256.6e50c1789c3ffe81094696f60f1c83aa.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_192x192.c62fe84ba919d5a33a211736981fc8e3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_128x128.1ca780273e995e229aad2a5d15135b55.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_96x96.ed24817e606e3a2584e8fb51d6705395.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Restopedia Indonesia",
+  "short_name": "Restopedia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Situs Informasi Restoran Indonesia Terlengkap",
+  "background_color": "#ffffff",
+  "theme_color": "#019b4b"
+}
